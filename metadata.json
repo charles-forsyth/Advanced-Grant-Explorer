@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Interactive Grant Funding Explorer",
+  "description": "An interactive dashboard for strategic discovery of cyberinfrastructure funding opportunities. Users can filter grants by goal, source, and award size, analyze funding landscapes, and track proposal deadlines.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
